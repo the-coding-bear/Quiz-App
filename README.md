@@ -25,9 +25,10 @@ This is a simple quiz application where users can test their knowledge by answer
 
 ## Screenshots
 
-(Add screenshots here if applicable)
+![screenshot-1](https://github.com/the-coding-bear/Quiz-App/assets/144129894/c932d7dd-158c-419b-8144-1dea2fc0431a)
+![screenshot-2](https://github.com/the-coding-bear/Quiz-App/assets/144129894/6bed9071-5403-4769-94ed-b695e78d2c90)
+![screenshot-3](https://github.com/the-coding-bear/Quiz-App/assets/144129894/f9bb3d68-65d9-400c-8516-07889a9327b4)
 
-## Acknowledgements
 
-This project is based on a tutorial/example found [here](#). Credits to the original author.
+
 
